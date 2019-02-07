@@ -1,0 +1,16 @@
+name:sandesh hello
+v_deg:computer engg
+v_mobile:9999999999
+v_email:sss@gmail.voc
+v_skype:v_skype hhhhh
+v_website:googorl.comvdfdffdgd
+v_address:punedfgdfgdfgdgdfgdf
+v_what:111111
+v_facebook:sandeshkhutal
+v_twitter:sk
+v_google:hellogoogle
+v_insta:khutalsaheb
+v_linkedin:linkmesandesh
+v_me:itsme
+v_sharelink:hhh
+//card_token:b48c53db2caa9dbfb06e2c77d0691d42
